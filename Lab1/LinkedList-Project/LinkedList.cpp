@@ -6,9 +6,7 @@
 using namespace std;
 
 Node* createNode(int n) {
-    Node* newNode;
-
-    newNode = new Node;
+    Node* newNode = new Node;
     newNode->data = n;
     newNode->next = NULL;
     return newNode;
@@ -16,11 +14,9 @@ Node* createNode(int n) {
 
 Node* insertAtHead(Node* top, int n) {
     Node* newNode;
-
     newNode = createNode(n);
     newNode->next = top;  // this works even if the list is empty (i.e., top = NULL)
     top = newNode;
-
     return top;  // return pointer to new head of list
 }
 

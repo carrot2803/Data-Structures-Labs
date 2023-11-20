@@ -31,11 +31,9 @@ Node *createNode(int n) {
 
 Node *insertAtHead(Node *top, int n) {
     Node *newNode;
-
     newNode = createNode(n);
     newNode->next = top;
     top = newNode;
-
     return top;  // return pointer to new head of list
 }
 
