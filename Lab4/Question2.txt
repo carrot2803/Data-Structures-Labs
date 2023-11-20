@@ -1,0 +1,16 @@
+a.
+2 5 9 10 15 20 25 30 40
+
+b.
+2 5 9 10 15 20 25 30 40
+
+c.
+
+i.
+In inorder traversal, the nodes of a binary tree are visited in ascending order 
+based on their values, and for a binary search tree, the traversal yields a sorted sequence of elements.
+
+ii.
+Smallest value is located at the most left, Largest value is located at the most right
+
+

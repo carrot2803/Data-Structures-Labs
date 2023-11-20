@@ -1,0 +1,19 @@
+a.
+Pre-Order: 50 40 25 30 10 20
+In-Order: 40 25 50 10 20 30
+Post-Order: 25 40 20 10 30 50
+
+b.
+Pre-Order: M F B D H S P Y V
+In-Order: B D F H M P S V Y
+Post-Order: D B H F P V Y S M
+
+c.
+Pre-Order: 10 30 20 30 90 75 40 25
+In-Order: 30 30 20 90 10 40 25 75
+Post-Order: 30 90 20 30 25 40 75 10
+
+d.
+Pre-Order: 30 10 25 50 40 35 90 70
+In-Order: 10 25 30 35 40 50 70 90
+Post-Order: 25 10 35 40 70 90 50 30
