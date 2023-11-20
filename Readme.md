@@ -3,7 +3,7 @@
 This repository contains the lab solutions for comp2611.
 
 ```sh
-https://github.com/carrot2803/DataStructs-Labs.git
+https://github.com/carrot2803/Data-Structures-Labs.git
 ```
 
 ## Usage
@@ -17,11 +17,11 @@ Labs are organized chronologically and by parts (Lab/QuestionType).
   <code>There are several ways to save this repository on your device. Two of these options include:</code>
 </summary>
 
--   [Downloading repository as ZIP](https://github.com/carrot2803/DataStructs-Labs/archive/refs/heads/master.zip)
+-   [Downloading repository as ZIP](https://github.com/carrot2803/Data-Structures-Labs/archive/refs/heads/master.zip)
 -   Running the following command in a terminal, provided the [GitHub CLI](https://cli.github.com/) has been previously installed:
 
 ```sh
-git clone https://github.com/carrot2803/DataStructs-Labs.git
+git clone https://github.com/carrot2803/Data-Structures-Labs.git
 ```
 
 </details>
@@ -57,3 +57,6 @@ If you find an error in any of the past paper questions, or you want to add more
 If you have any questions, issues, or suggestions regarding the questions, please don't hesitate to contact me on Discord at carrot#8856 or join the support server at [https://discord.gg/TFEbHkCyT3].<br/>
 
 I am not advertising or promoting this Discord server nor limiting access to it; it's simply a means to assist you. If you have me on WhatsApp, you can also tag me in the group chat or send me a direct message.
+
+# Closing
+Thanks for reading hope this is helpful.
